@@ -1,0 +1,98 @@
+[
+    {
+        "firstName":"Rafiek",
+        "lastName":"Booysen",
+        "favHobby":"Football",
+        "criminal":"false",
+        "dreamCars":[
+            {
+                "carName":"Audi R8",
+                "engineCapacity":2,
+                "model":"2020"
+            },
+            {
+            "carName":"Golf GTI",
+            "engineCapacity":1.6,
+            "model":"2017"
+            }
+    
+        ]
+    },
+    {
+        "firstName":"Leah-che",
+        "lastName":"January",
+        "favHobby":"Football",
+        "criminal":"false",
+        "dreamCars":[
+            {
+                "carName":"BMW M4",
+                "engineCapacity":2,
+                "model":"2024"
+            },
+            {
+            "carName":"Golf 8",
+            "engineCapacity":2,
+            "model":"2024"
+            }
+    
+        ]
+    },
+    {
+        "firstName":"Raeesha",
+        "lastName":"Behardien",
+        "favHobby":"Reading",
+        "criminal":"true",
+        "dreamCars":[
+            {
+                "carName":"Ferrari",
+                "engineCapacity":2,
+                "model":"2020"
+            },
+            {
+            "carName":"Audi A3",
+            "engineCapacity":1.6,
+            "model":"2018"
+            }
+    
+        ]
+    },
+    {
+        "firstName":"Chelsea",
+        "lastName":"Tandy",
+        "favHobby":"Swimming",
+        "criminal":"true",
+        "dreamCars":[
+            {
+                "carName":"Toyota Runx",
+                "engineCapacity":1.6,
+                "model":"2021"
+            },
+            {
+            "carName":"BMW M3",
+            "engineCapacity":1.8,
+            "model":"2022"
+            }
+    
+        ]
+    },
+    {
+        "firstName":"Ra-eeq",
+        "lastName":"Booysen",
+        "favHobby":"Football",
+        "criminal":"false",
+        "dreamCars":[
+            {
+                "carName":"Hilux",
+                "engineCapacity":2,
+                "model":"2023"
+            },
+            {
+            "carName":"Range Rover",
+            "engineCapacity":2,
+            "model":"2024"
+            }
+    
+        ]
+    }
+ 
+]
